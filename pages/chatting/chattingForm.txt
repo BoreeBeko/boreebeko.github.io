@@ -1,0 +1,19 @@
+<!doctype html>
+
+<html>
+	<head>
+		<title> Чат </title>
+	</head>
+
+	<body>
+		<form action = "">
+			<p> Электрондық пошта </p>
+		  	  <input type = "text" size = "40">
+			<p> Ұсынысыңыз </p>
+			  <textarea = "comment" cols = "50" rows = "4"> </textarea>
+			<br>
+			  <input type = "submit" value = "Жіберу">
+			  <input type = "reset" value = "Өшіру">
+		</form>
+	</body>
+</html>
